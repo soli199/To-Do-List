@@ -34,7 +34,7 @@
 
 1. انسخ (Clone) المشروع:
    ```bash
-   git clone https://github.com/username/To-Do-List.git
+   git clone https://github.com/soli199/To-Do-List.git
    ```
 2. افتح المشروع باستخدام **Visual Studio**.
 3. شغّل التطبيق (`Start` أو `F5`).
